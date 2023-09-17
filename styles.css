@@ -1,8 +1,16 @@
-.main{
+/* .main{
 	width:300px;
 	background-color:light-blue;
 	border:15px solid blue;
 	padding:50px;
+	margin:20px;
+	
+} */
+.container{
+	width:300px;
+	border:15px solid blue;
+	padding:50px;
+	background-color:lightblue;
 	margin:20px;
 	
 }
